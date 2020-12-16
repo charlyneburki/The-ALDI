@@ -29,4 +29,10 @@ Our ALDI is special because it includes the following measures:
 11. Work-Life Balance
 12. Foods 
 ```
+## But what is an Index and how is it calculated ?
+
+Great question ! In fact, it's important to understand the basics beneath this measurement. An index is made of aggregated data according to different topics. For instance, when we talk about measuring the education level, we aggregate data ranging from [GECD](https://en.wikipedia.org/wiki/General_Certificate_of_Secondary_Education) scores to the highest qualification earned when a working adult fills out a census form. These values are then normalized for each to be on the same scale, to allow for unbiased comparaison. Once all the factors for an indicator have been normalized, they must be evaluated for independence, in the sense that they must not be correlated (otherwise we would be giving a factor twice as much weight as necessary). Once we obtain all our 12 different categories, we must once more make sure that these factors are not correlated in order to have a most accurate assessment of the life standard.  
+
+
+
 
