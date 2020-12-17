@@ -36,8 +36,7 @@ Given the availability of precise food data introduced in the [Tesco Grocery 1.0
 
 ![alt_text](https://github.com/charlyneburki/The-ALDI/blob/master/assets/img/super_accurate_validation_data.jpg)
 
-Much research has concluded that there is an association between eating healthier, varied diets and [higher education](https://www.cambridge.org/core/journals/public-health-nutrition/article/relationship-between-education-and-food-consumption-in-the-1995-australian-national-nutrition-survey/8464FAE847878D59E8D2DD2D06ABB123), converserly more high-fat, caloric diets and [lower education](https://www.sciencedaily.com/releases/2013/11/131106202251.htm), and leading a happier life and [eating healthier](https://link.springer.com/article/10.1007/s11482-019-09748-7#:~:text=Both%20studies%20found%20positive%20correlations,level%20was%20not%20investigated%20longitudinally).  
-
+Much research has concluded that there is an association between eating healthier, varied diets and [higher education](https://www.cambridge.org/core/journals/public-health-nutrition/article/relationship-between-education-and-food-consumption-in-the-1995-australian-national-nutrition-survey/8464FAE847878D59E8D2DD2D06ABB123), converserly more high-fat, caloric diets and [lower education](https://www.sciencedaily.com/releases/2013/11/131106202251.htm), and leading a happier life and [eating healthier](https://link.springer.com/article/10.1007/s11482-019-09748-7#:~:text=Both%20studies%20found%20positive%20correlations,level%20was%20not%20investigated%20longitudinally). Furthermore, as the [Tesco Grocery 1.0 ](https://www.nature.com/articles/s41597-020-0397-7) paper demonstrated, there is a negative effect of eating high
 
 ## But what is an Index and how is it calculated ?
 
