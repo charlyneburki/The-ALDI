@@ -32,3 +32,5 @@ Once we rescale all our data we obtain independent indicators, as showcased here
 
 As you can observe by the colors, all our indicators are independent of one another, which is an essential criterion for producing an index that reflects different aspects of life evaluation. 
 
+After that, we looked to optimize the weights attributed to each category. That is, we employed Principle Component Analysis (PCA) to determine the directions that contain the most variance, and assigning them more important weights. This process allows us to **optimize** the weights. In the end, we obtain an index containing the weights of each indicators such that they optimally represent the data we have and reflect most accurately what is going on in the Greater London Area. 
+
