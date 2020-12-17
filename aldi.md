@@ -16,6 +16,8 @@ We notice that this indicator contains a diverse distribution of food categories
 ## Environment 
 
 pannel of 3 graphs 
+This is the pannel of the graphs :
+![env](./assets/img/exploring_env.png){: .mx-auto.d-block :}
 
 ## Safety 
 
