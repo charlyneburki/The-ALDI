@@ -32,7 +32,7 @@ The ALDI uses standard categories employed in the OECD's ranking:
 ```
 **and** additionally a **Foods** category and an **Alcohol** category. 
 
-Given the availability of precise food data introduced in the [Tesco Grocery 1.0 ](https://www.nature.com/articles/s41597-020-0397-7) paper at this geographical level, we aimed to explore whether we could extrapolate this data not only to health but to other life indicators. Ultimately, we wanted to see if we could only employ this category to predict happiness/life satisfaction in the Greater London Area -- and see if we could replicate this super acurate map of London Boroughs, found from [this website](https://www.timeout.com/london/blog/this-map-shows-londons-happiest-and-saddest-boroughs-100516):
+Given the availability of precise food data introduced in the [Tesco Grocery 1.0 ](https://www.nature.com/articles/s41597-020-0397-7) paper at this geographical level, we aimed to explore whether we could extrapolate this data not only to health but to other life indicators. Ultimately, we wanted to see if we could only employ this category to predict happiness/life satisfaction in the Greater London Area -- and see if our index performed closely to this super acurate map of London Borough happiness, found from [this website](https://www.timeout.com/london/blog/this-map-shows-londons-happiest-and-saddest-boroughs-100516):
 
 ![alt_text](./assets/img/super_accurate_validation_data.jpg){: .mx-auto.d-block :}
 
