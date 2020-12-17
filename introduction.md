@@ -32,10 +32,9 @@ The ALDI uses standard categories employed in the OECD's ranking:
 ```
 **and** additionally a **Foods** category and an **Alcohol** category. 
 
-Given the availability of precise food data introduced in the [Tesco Grocery 1.0 ](https://www.nature.com/articles/s41597-020-0397-7) paper at this geographical level, we aimed to explore to which extent foods could provide an additional significant indicator in addition to the pre-existing categories and whether using only this category could in the end reflect happiness/life satisfaction in the Greater London Area.
+Given the availability of precise food data introduced in the [Tesco Grocery 1.0 ](https://www.nature.com/articles/s41597-020-0397-7) paper at this geographical level, we aimed to explore whether we could extrapolate this data not only to health but to other life indicators. Ultimately, we wanted to see if we could only employ this category to predict happiness/life satisfaction in the Greater London Area -- and see if we could replicate this super acurate map of London Boroughs:
 
-Since the paper already establishes a correlation between certain food categories and diabetes prevalance in the population, we want to explore whether we could extrapolate this data not to health but to whole life indicators.  
-
+![alt_text]()
 
 In fact, much research has concluded that there is an association between eating healthier, varied diets and [higher education](https://www.cambridge.org/core/journals/public-health-nutrition/article/relationship-between-education-and-food-consumption-in-the-1995-australian-national-nutrition-survey/8464FAE847878D59E8D2DD2D06ABB123), converserly more high-fat, caloric diets and [lower education](https://www.sciencedaily.com/releases/2013/11/131106202251.htm), and leading a happier life and [eating healthier](https://link.springer.com/article/10.1007/s11482-019-09748-7#:~:text=Both%20studies%20found%20positive%20correlations,level%20was%20not%20investigated%20longitudinally).  
 
