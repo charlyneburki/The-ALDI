@@ -42,7 +42,7 @@ Great question ! In fact, it's important to understand the basics beneath this m
 
 To create the ALDI, we followed the recommandations set by the European Union's Joint Research Center in their paper [Tools for Composite Indicators Building](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC31473/EUR%2021682%20EN.pdf?fbclid=IwAR1fziDRyxp6F9B6RAk6wT7pvjBuxs3zV56L-GwR2XYZyczYuDKSd9jy990) in 2005. 
 
-Let's get to it ! 
+[Let's get to it !](https://charlyneburki.github.io/The-ALDI/aldi/) 
 
 
 
