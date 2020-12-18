@@ -22,7 +22,7 @@ It's interesting to note that outer-most wards score genereally better than thos
 
 It's already easier to read the data ! It also resembles the initial happiness map measuring anxiety and subjective happiness.
 
-# Want to play around with the weights  ?
+# Want to play around with the weights ?
 
 We provide sliders for you to customize your index ! You can choose what categories are important to you and attribute them larger weights, and see how the boroughs evolve !
 
