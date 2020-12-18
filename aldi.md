@@ -33,7 +33,7 @@ The two air pollution indicators are also negatively correlated to the percent o
 
 ## Sounds easy right ? But ... 
 
-This was a brief overview of what is contained in our categories. This data is actually rescaled and normalized and sometimes inversed in order to compare the different values on the same scale. We need a bunch of categories to better capture importance of each sub-indicator, we cannot compare the pollution emitted via particle counts to a count of violent incidents happening in a neighborhood! 
+This was a brief overview of what is contained in our categories. This data is actually rescaled and normalized and sometimes inversed in order to compare the different values on the same scale. We need a bunch of categories to better capture importance of each sub-indicator, since we cannot compare the pollution emitted via particle counts to a count of violent incidents happening in a neighborhood! 
 
 Once we rescale all our data, we obtain relatively independent indicators. Some are quite strongly correlated, as income and jobs. This seems reasonable since areas that have high income also probably have lucrative jobs. On the other hand, work-life balance is negatively correlated with income, which makes sense as we approximate the former by using the proportion of part-time employees in the area. So, the lower income of some areas could be explained by having more free-time, and won't be penalized as much in our indicator. Anyway, have a look yourself :
 
