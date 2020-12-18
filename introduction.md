@@ -5,7 +5,7 @@ subtitle: The Importance of Indexes
 
 ## How are people doing ? 
 
-Quality of life has become an increasingly valuable factor in determining policies, governing strategic development and rethinking the way humans evaluate life. A lot of research has gone into improving humans life standard. Recently, indicators such as the [Human Development Index](http://hdr.undp.org/en/content/human-development-index-hdi) (HDI) or customized indices like the [OECD Better Life Index](http://www.oecdbetterlifeindex.org/#/11111111111) have emerged to account for other facets of life instead of simple GDP per capita. The advantages of employing a custom-made index is that a myriad of factors are accounted for, such that we are able to obtain a more accurate reading of “life” and answer the question _"how's life ?"_.
+Quality of life has become an increasingly valuable factor in determining policies, governing strategic development and rethinking the way humans evaluate life. A lot of research has gone into improving humans life standard. Recently, indicators such as the [Human Development Index](http://hdr.undp.org/en/content/human-development-index-hdi) (HDI) or customized indices like the [OECD Better Life Index](http://www.oecdbetterlifeindex.org/#/11111111111) have emerged to account for other facets of life instead of simple GDP per capita. The advantages of employing a custom-made index is that a myriad of factors are accounted for, such that we are able to obtain a more accurate reading of “life” and answer the question _"How's life ?"_.
 
 ## Why should I care about Indexes ?
 
@@ -13,7 +13,7 @@ Indexes are usually employed to compare countries to one another, allowing organ
 
 ## Introducing ... ALDI !
 
-We propose a new and improved index to rank, not countries, but local regions in the Greater London Area, in England. More particularly, we look at [wards](https://en.wikipedia.org/wiki/Wards_and_electoral_divisions_of_the_United_Kingdom) and boroughs which are both structural localities specific to England. Producing statistics at this level allows, among other things, to read which policies work best in those particular regions.  
+We propose a new and improved index called _Advanced Life Development Index (ALDI)_ to rank, not countries, but local regions in the Greater London Area, UK. Particularly, we look at [wards](https://en.wikipedia.org/wiki/Wards_and_electoral_divisions_of_the_United_Kingdom) and boroughs which are both structural localities specific to England. Producing statistics at this level allows, among other things, to read which policies work best in those particular regions.  
 
 The ALDI uses standard categories employed in the OECD's ranking:
 
@@ -45,9 +45,9 @@ So we will have a look at how food habits influence our index, by looking at how
 
 ## But what is an Index and how is it calculated ?
 
-Great question ! In fact, it's important to understand the basics underlying this measurement. An index is made of aggregated data according to different topics. For instance, when we talk about measuring the education level in our dataset, we aggregate data ranging from [GECD](https://en.wikipedia.org/wiki/General_Certificate_of_Secondary_Education) scores to the highest qualification earned when a working adult fills out a census form. These values are then normalized for each to be on the same scale, to allow for unbiased comparaison. Once all the factors for an indicator have been normalized, they must be evaluated for independence, in the sense that they must not be correlated (otherwise we would be giving a factor more weight than necessary). Once we obtain an indicator for all our 13 different categories, we must once more make sure that these factors are not correlated in order to have a most accurate assessment of the life standard. 
+Great question ! In fact, it's important to understand the basics underlying this measurement. An index is made of aggregated data according to different topics. For instance, when we talk about measuring the education level in our dataset, we aggregate data ranging from [GECD](https://en.wikipedia.org/wiki/General_Certificate_of_Secondary_Education) scores to the highest qualification earned. These values are then rescaled to values from 0 to 1, which allows for unbiased comparaison. Once all the factors for an indicator have been normalized, they must be evaluated for independence. We particulartly look into the Pearson correlation coefficient for every two factors and then apply Principal Component Analysis (PCA) to calculate the optimal weights based on the modified basis of the data. Based on the obtained indicators for all 13 different categories, we once more again apply the PCA method this time to the full dataset, which outputs the final weights of each of the 13 categories. The method ensures that the assessment of the life standard will not be biased towards one of the mentioned categories. 
 
-Lastly, we arrange our data such that a higher score reflects a positive impact on life. For example, the raw data for crime rate will naturally be higher for areas that have more crimes. Thus, we need to inverse that particular scale which allows us to have a scale that reflectls only positively.  
+Note we arrange our data such that a higher score reflects a positive impact on life. For example, the raw data for crime rate will naturally be higher for areas that have more crimes. Thus, we need to inverse that particular scale which allows us to produce a weight proportional to the influence of the indicator.  
 
 To create ALDI, we followed the recommandations set by the European Union's Joint Research Center in their paper [Tools for Composite Indicators Building](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC31473/EUR%2021682%20EN.pdf?fbclid=IwAR1fziDRyxp6F9B6RAk6wT7pvjBuxs3zV56L-GwR2XYZyczYuDKSd9jy990) in 2005. 
 
