@@ -13,7 +13,7 @@ Indexes are usually employed to compare countries to one another, allowing organ
 
 ## Introducing ... ALDI !
 
-Here, we propose a new and improved index to rank, not countries, but local regions in the Greater London Area, in England. More particularly, we look at [Wards](https://en.wikipedia.org/wiki/Wards_and_electoral_divisions_of_the_United_Kingdom) and Boroughs which are both structural localities specific to England. Producing statistics at this level allows, among other things, to read which policies work best in that particular region.  
+Here, we propose a new and improved index to rank, not countries, but local regions in the Greater London Area, in England. More particularly, we look at [Wards](https://en.wikipedia.org/wiki/Wards_and_electoral_divisions_of_the_United_Kingdom) and Boroughs which are both structural localities specific to England. Producing statistics at this level allows, among other things, to read which policies work best in those particular regions.  
 
 The ALDI uses standard categories employed in the OECD's ranking:
 
@@ -42,7 +42,7 @@ Much research has concluded that there is an association between eating healthie
 
 ## But what is an Index and how is it calculated ?
 
-Great question ! In fact, it's important to understand the basics beneath this measurement. An index is made of aggregated data according to different topics. For instance, when we talk about measuring the education level in our dataset, we aggregate data ranging from [GECD](https://en.wikipedia.org/wiki/General_Certificate_of_Secondary_Education) scores to the highest qualification earned when a working adult fills out a census form. These values are then normalized for each to be on the same scale, to allow for unbiased comparaison. Once all the factors for an indicator have been normalized, they must be evaluated for independence, in the sense that they must not be correlated (otherwise we would be giving a factor more weight than necessary). Once we obtain an indicator for all our 12 different categories, we must once more make sure that these factors are not correlated in order to have a most accurate assessment of the life standard.  
+Great question ! In fact, it's important to understand the basics beneath this measurement. An index is made of aggregated data according to different topics. For instance, when we talk about measuring the education level in our dataset, we aggregate data ranging from [GECD](https://en.wikipedia.org/wiki/General_Certificate_of_Secondary_Education) scores to the highest qualification earned when a working adult fills out a census form. These values are then normalized for each to be on the same scale, to allow for unbiased comparaison. Once all the factors for an indicator have been normalized, they must be evaluated for independence, in the sense that they must not be correlated (otherwise we would be giving a factor more weight than necessary). Once we obtain an indicator for all our 13 different categories, we must once more make sure that these factors are not correlated in order to have a most accurate assessment of the life standard.  
 
 To create ALDI, we followed the recommandations set by the European Union's Joint Research Center in their paper [Tools for Composite Indicators Building](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC31473/EUR%2021682%20EN.pdf?fbclid=IwAR1fziDRyxp6F9B6RAk6wT7pvjBuxs3zV56L-GwR2XYZyczYuDKSd9jy990) in 2005. 
 
