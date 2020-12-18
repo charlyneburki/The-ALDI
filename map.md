@@ -26,8 +26,5 @@ It's already easier to read the data ! It also resembles the initial happiness m
 
 We provide sliders for you to customize your index ! You can choose what categories are important to you and attribute them larger weights, and see how the boroughs evolve !
 
-< interactive maps and weights > 
-![interactive_map](./assets/img/map.html){: .mx-auto.d-block :}
-
 {% include map_interactive.html  %}
 
