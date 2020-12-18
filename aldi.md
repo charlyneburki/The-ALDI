@@ -12,12 +12,11 @@ Let's take a look at a few indicators to understand what is contained in them an
 First up, it's important to understand what is inside the `Foods` category. What are people buying ? What are people eating ? 
 
 We answer this question by plotting the frequency of the different categories of food contained in our dataset. We see that people tend to buy a lot more fruits and vegetables than any other categories. We also see that animal products do not make up a large part of consumer's diets. It's interesting to note that despite having busy lives, ready-made foods do not figure in the top purchased food items.  
-![foods_dist](./assets/img/exploring_foods.png)
+![foods_dist](./assets/img/exploring_foods.png){: .mx-auto.d-block :}
 
 This heatmap shows us a lot about general nutrition. Fibers are found mainly in fruits and vegetables, as higlighted by the relatively strong correlation between fibers energy and fruits & vegetables. It's suprising to see that ready-made items correlate negatively with fibers energy, meaning that because we inversed the first variable, they actually correlate positively ! Also areas that buy larger fractions of sweets obtain higher counts of energy from fats, sugar and carbs.
 
-<insert the second graph for foods>
-![foods](./assets/img/foods_correlation.png){: .mx-auto.d-block :})
+![foods](./assets/img/foods_correlation.png){: .mx-auto.d-block :}
 
 Thus, the food indicator is made of a diverse set of food items and measures that also presents normal correlation factors.
 
@@ -43,7 +42,7 @@ This was a brief overview of what is contained in our subcategories. This data i
 
 Once we rescale all our data we obtain independent indicators, as showcased here in this heatmap :
 
-< inlcude heatmap of all indicators> 
+![indicators](./assets/img/ALDI_correlations.png){: .mx-auto.d-block :}
 
 As we can observe by the colors, all our indicators are independent of one another, which is an essential criterion for producing an index that reflects different aspects of life evaluation. 
 
