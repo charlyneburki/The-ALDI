@@ -7,7 +7,12 @@ subtitle: Mapping the index to the London Area
 
 Here, we display the optimised weights and the ranking of the boroughs 
 
-< include pannel with 5 graphs >
+The ward-level map :
+
+![ward map](./assets/img/ALDI_ward_map.png){: .mx-auto.d-block :}
+
+The borough-level map:
+![borough map](./assets/img/ALDI_borough_map.png){: .mx-auto.d-block :}
 
 # Discussion on food 
 
