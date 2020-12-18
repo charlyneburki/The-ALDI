@@ -17,17 +17,17 @@ We propose a new and improved index to rank, not countries, but local regions in
 
 The ALDI uses standard categories employed in the OECD's ranking:
 
-  Housing
-  Income
-  Jobs
-  Community
-  Education
-  Environment
-  Civic Engagement
-  Health
-  Life Satisfaction
-  Safety
-  Work-Life Balance
+  * Housing
+  * Income
+  * Jobs
+  * Community
+  * Education
+  * Environment
+  * Civic Engagement
+  * Health
+  * Life Satisfaction
+  * Safety
+  * Work-Life Balance
 
 and additionally a **Foods** category and an **Alcohol** category. 
 
