@@ -29,4 +29,5 @@ We provide sliders for you to customize your index ! You can choose what categor
 < interactive maps and weights > 
 ![interactive_map](./assets/img/map.html){: .mx-auto.d-block :}
 
+{% include map.html %}
 
