@@ -5,7 +5,7 @@ subtitle: A showcase of what is contained in some of the indicators
 
 # An Overview of some Important Categories
 
-Let's take a look at a few indicators to understand what is contained in them and what we are measuring ! We will only look at the two most interesting categories -- Food and Environment.
+Let's take a look at a few indicators to understand what is their properties and what we are measuring ! We only look at the two most interesting categories -- Food and Environment.
 
 ## Foods 
 
