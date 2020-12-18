@@ -28,8 +28,6 @@ We provide sliders for you to customize your index ! You can choose what categor
 
 < interactive maps and weights > 
 ![interactive_map](./assets/img/map.html){: .mx-auto.d-block :}
-<div align="center">
-  <img src="https://raw.githubusercontent.com/charlyneburki/The-ALDI/master/assets/img/map.html" height="100" />
 
-</div>
+{% include map_interactive.html  %}
 
