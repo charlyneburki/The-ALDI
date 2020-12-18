@@ -28,3 +28,4 @@ We provide sliders for you to customize your index ! You can choose what categor
 
 {% include map_interactive.html  %}
 
+[Our conclusion](https://charlyneburki.github.io/The-ALDI/conclusion/) 
