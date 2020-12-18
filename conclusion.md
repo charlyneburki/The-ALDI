@@ -11,7 +11,7 @@ We don't! This index is only an indicator based on a couple of factors. If one t
 
 While browsing the web for datasets, we stumbled upon an excel file made by the Greater London Authority that measured well-being based on happiness, worthwhile, life satisfaction and anxiety. This is the same data used for [this map](https://www.timeout.com/london/blog/this-map-shows-londons-happiest-and-saddest-boroughs-100516). To prove that ALDI is relevent, we looked at how our index correlates with these subjective well-being questions asked to people all over London. In the following heatmap, we can see our final index, computed with two different normalisation methods:
 
-![validation](./assets/img/ALDI_validation.png)
+![validation](./assets/img/ALDI_validation.png){: .mx-auto.d-block :}
 
 
 ## So ... 
