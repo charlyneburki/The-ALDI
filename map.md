@@ -5,20 +5,26 @@ subtitle: Mapping the index to the London Area
 
 # What does the Index result in ? 
 
-Here, we display the optimised weights and the Greater London Area maps that result from the optimised ALDI ranking. 
-
-The optimised weights:
+Here, we display the optimized weights and the Greater London Area maps that result from the ALDI ranking process. 
 
 ![weights](./assets/img/weigths.png){: .mx-auto.d-block :}
 
-The ward-level map :
+We observe that the weights given to each categories have been distributed in such a way that each factor will contribute proportionally to evaluating life. Note also that the **Foods** and **Alcohol** categories have adequate weights to factor in, which is quite nice for our method ! 
+
+We then plot the overall ALDI score, with the weights above, to the Ward level in the Greater London Area.
+
+The map :
 
 ![ward map](./assets/img/ALDI_ward_map.png){: .mx-auto.d-block :}
+
+
 
 The borough-level map:
 ![borough map](./assets/img/ALDI_borough_map.png){: .mx-auto.d-block :}
 
 # Discussion on food 
+
+![borough food map](./assets/img/ALDI_borough_map_foods.png){: .mx-auto.d-block :}
 
 # Want to play around with the weights  ?
 
