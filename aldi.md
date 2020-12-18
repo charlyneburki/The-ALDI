@@ -9,7 +9,7 @@ Let's take a look at a few indicators to understand what is contained in them an
 
 ## Foods 
 
-First up, it's important to understand what is inside the `Foods` category. What are people buying ? What are people eating ? 
+First up, it's important to understand what is inside the Foods category. What are people buying ? What are people eating ? 
 
 We answer this question by plotting the frequency of the different categories of food contained in our dataset. We see that people tend to buy a lot more fruits and vegetables than any other categories. We also see that animal products do not make up a large part of what people buy. It's interesting to note that ready-made foods do not figure in the top purchased food items, but that sweets are very popular.
 ![foods_dist](./assets/img/exploring_foods.png){: .mx-auto.d-block :}
@@ -28,7 +28,7 @@ This next category is all about measuring the condition of the environment. How 
 
 Though the two indicators for air pollution, [PM10](https://www.eea.europa.eu/data-and-maps/indicators/emissions-of-primary-particles-and-5/assessment-3)  emissions and [NO2](https://www.epa.gov/no2-pollution#:~:text=NO2%20primarily%20gets%20in,%2C%20and%20off%2Droad%20equipment) emissions, are highly correlated from the heatmap, they measure different pollutions at different levels. We see that PM10 pollution spans a different range from that of NO2 emissions in the top right corner of the image. NO2 emissions also have higher levels and about 10 percent of the London areas are above the [norm](https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health) set by the World Health Organisation, which indicates poor air quality. 
 
-The two air pollution indicators are also correlated relatively strongly negaitvely to the `percent of greenspace area`. This suggests that the two indicators may also, to a certain extent, express how much green space there is.
+The two air pollution indicators are also correlated relatively strongly negaitvely to the percent of greenspace area. This suggests that the two indicators may also, to a certain extent, express how much green space there is.
 
 
 ## Sounds easy right ? But ... 
