@@ -11,6 +11,8 @@ Let's take a look at a few indicators to understand what is in them and understa
 
 here we want to insert a few graphs of foods:
 
+![foods](./assets/img/exploring_foods.png){: .mx-auto.d-block :})
+
 We notice that this indicator contains a diverse distribution of food categories. 
 
 ## Environment 
