@@ -18,6 +18,7 @@ navbar-links:
   Presentation:
     - The Index: "aldi"
     - The Maps: "map"
+    - Interactive Maps: "map.html"
   Conclusion: "conclusion"
 
 # --- Logo --- #
