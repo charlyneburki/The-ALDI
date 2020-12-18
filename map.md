@@ -5,7 +5,11 @@ subtitle: Mapping the index to the London Area
 
 # What does the Index result in ? 
 
-Here, we display the optimised weights and the Greater London Area maps that result from the optimised ALDI ranking.  
+Here, we display the optimised weights and the Greater London Area maps that result from the optimised ALDI ranking. 
+
+The optimised weights:
+
+![weights](./assets/img/weights.png){: .mx-auto.d-block :}
 
 The ward-level map :
 
