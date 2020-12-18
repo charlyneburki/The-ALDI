@@ -9,7 +9,7 @@ Here, we display the optimised weights and the Greater London Area maps that res
 
 The optimised weights:
 
-![weights](./assets/img/weights.png){: .mx-auto.d-block :}
+![weights](./assets/img/weigths.png){: .mx-auto.d-block :}
 
 The ward-level map :
 
